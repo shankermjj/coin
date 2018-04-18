@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ShaCoin - Truffle Webpack Demo w/ Frontend</title>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+
+<!-- Bootstrap core CSS -->
+    <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+    <!-- Custom fonts for this template -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+  <script src="./app.js"></script>
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+</head>
+
+<div class="foot">
+ <!-- Navbar -->
+    <nav class="navbar navbar-inverse bg-inverse">
+      <a class="navbar-brand text-white" href="about.html">
+       About<br>
+       </a>
+       <a class="navbar-brand text-white" href="details.html">
+       Details
+      <a class="navbar-brand">
+        <marquee> Welcome to Sha-Coin Crypto-currency for Trading </marquee>
+      </a>
+    </nav>
+</div>
+
+<body bgcolor="orange">
+<center>
+
+<img src="https://www.w3schools.com/images/lamp.jpg" alt="Lamp">
+
+<h1>This Site is a Basic Version of Cryptocurrency, for Creating a Own Coins using Ethereum Platform   </h1>
+
+<!body background ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOr-hXAQumVYazhJlbQCUqVFfOYBFi6BqbUDNamWnVXhnOVBgKgg">
+<!img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg">
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,80 @@
+foot
+{
+  margin-left: 1%;
+  margin-right: 5%;
+  margin-top: 1%;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  margin-left: 1%;
+  margin-right: 5%;
+  margin-top: 1%;
+  font-family: "Open Sans", sans-serif;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+}
+
+input {
+  width: 500px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  font-size: 16px;
+  padding: 5px;
+}
+
+h1, h2 {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #AAA;
+  font-size: 32px;
+}
+
+h3 {
+  font-weight: normal;
+  color: #AAA;
+  font-size: 24px;
+}
+
+.black {
+  color: black;
+}
+
+#balance {
+  color: black;
+}
+
+.hint {
+  color: #666;
+}
+
+.box {
+    background-color: lightgrey;
+    width: 800px;
+    border: 20px solid #008080;
+    padding: 25px;
+    margin: 25px;
+    
+}
+
+.box1 {
+    background-color: lightgrey;
+    width: 800px;
+    border: 20px solid  #34495e   ;
+    padding: 25px;
+    margin: 25px;
+    
+}
+
+
